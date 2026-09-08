@@ -1,6 +1,8 @@
 # FusionHelix / 碳硅共演螺旋
 
-**A breakthrough is not higher performance. It is a new joint capability that survives ablation while identity, agency, welfare, privacy, reversibility and future options remain protected.**
+Created by Yucong Duan (段玉聪).
+
+A breakthrough is not higher performance. It is a new joint capability that survives ablation while identity, agency, welfare, privacy, reversibility and future options remain protected.
 
 FusionHelix is an open-source carbon-silicon co-evolution and phase-transition runtime.
 
